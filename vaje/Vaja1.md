@@ -1,5 +1,5 @@
 # Vaja 1 – Identifikacija kompleksnega problema in tržne priložnosti
-## 1. Problem Statement
+## 1. Problem
 
 Upravljanje osebnih financ predstavlja za veliko posameznikov pomemben, vendar pogosto zanemarjen izziv. Kljub dostopnosti številnih digitalnih orodij se večina ljudi še vedno sooča s težavami pri spremljanju porabe, načrtovanju proračuna in sprejemanju finančno odgovornih odločitev.
 
