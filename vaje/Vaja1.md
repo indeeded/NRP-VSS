@@ -1,38 +1,37 @@
-Vaja 1 – Identifikacija kompleksnega problema in tržne priložnosti
-1. Problem Statement
+# Vaja 1 – Identifikacija kompleksnega problema in tržne priložnosti
+## 1. Problem Statement
 
 Upravljanje osebnih financ predstavlja za veliko posameznikov pomemben, vendar pogosto zanemarjen izziv. Kljub dostopnosti številnih digitalnih orodij se večina ljudi še vedno sooča s težavami pri spremljanju porabe, načrtovanju proračuna in sprejemanju finančno odgovornih odločitev.
 
 Problem se kaže predvsem v:
-
-pomanjkanju preglednosti nad vsakodnevnimi stroški,
-impulzivnem trošenju,
-nezmožnosti dolgoročnega finančnega načrtovanja,
-nizki finančni pismenosti.
+- pomanjkanju preglednosti nad vsakodnevnimi stroški,
+- impulzivnem trošenju,
+- nezmožnosti dolgoročnega finančnega načrtovanja,
+- nizki finančni pismenosti.
 
 Obstoječe rešitve (npr. mobilne aplikacije za sledenje porabi) pogosto zahtevajo ročni vnos podatkov ali pa ponujajo zgolj osnovne analize brez prilagoditve uporabniku. Posledično uporabniki hitro izgubijo motivacijo za uporabo teh orodij.
 
 Ta problem zadeva:
 
-mlade zaposlene in študente,
-posameznike z nestabilnimi prihodki (freelancerji),
-gospodinjstva, ki želijo optimizirati porabo.
+- mlade zaposlene in študente,
+- posameznike z nestabilnimi prihodki (freelancerji),
+- gospodinjstva, ki želijo optimizirati porabo.
 
 Če problem ostane nerešen:
 
-se povečuje tveganje za dolgove,
-uporabniki težje varčujejo,
-slabša je finančna stabilnost posameznika,
-dolgoročno lahko pride do širših družbenih posledic (npr. večja odvisnost od socialnih sistemov).
+- se povečuje tveganje za dolgove,
+- uporabniki težje varčujejo,
+- slabša je finančna stabilnost posameznika,
+- dolgoročno lahko pride do širših družbenih posledic (npr. večja odvisnost od socialnih sistemov).
 
 Gre za kompleksen problem, ki vključuje:
 
-tehnološki vidik (analiza podatkov, integracija z bankami),
-vedenjski vidik (navade, psihologija trošenja),
-uporabniški vidik (enostavnost uporabe),
-poslovni vidik (monetizacija, zaupanje uporabnikov).
+- tehnološki vidik (analiza podatkov, integracija z bankami),
+- vedenjski vidik (navade, psihologija trošenja),
+- uporabniški vidik (enostavnost uporabe),
+- poslovni vidik (monetizacija, zaupanje uporabnikov).
 
-2. Market Research
+## 2. Market Research
 
 Trg digitalnih finančnih storitev in orodij za upravljanje osebnih financ hitro raste.
 
@@ -44,19 +43,19 @@ Po podatkih organizacije OECD je finančna pismenost še vedno nizka v številni
 
 Kljub obstoju številnih aplikacij (npr. budgeting apps) obstajajo ključne vrzeli:
 
-pomanjkanje avtomatizacije,
-slaba personalizacija,
-premalo poudarka na vedenjskih vzorcih uporabnikov,
-nizka dolgoročna angažiranost uporabnikov.
+- pomanjkanje avtomatizacije,
+- slaba personalizacija,
+- premalo poudarka na vedenjskih vzorcih uporabnikov,
+- nizka dolgoročna angažiranost uporabnikov.
 
 To predstavlja tržno priložnost za razvoj naprednega IT produkta, ki bi:
 
-uporabljal umetno inteligenco za analizo porabe,
-samodejno prepoznaval vzorce trošenja,
-uporabniku podajal konkretne in personalizirane predloge,
-spodbujal bolj zdrave finančne navade.
+- uporabljal umetno inteligenco za analizo porabe,
+- samodejno prepoznaval vzorce trošenja,
+- uporabniku podajal konkretne in personalizirane predloge,
+- spodbujal bolj zdrave finančne navade.
 
-3. Viri
-Statista – Digital banking & personal finance statistics
-McKinsey & Company – Personalization in financial services
-OECD – Financial literacy reports
+## 3. Viri
+- Statista – Digital banking & personal finance statistics
+- McKinsey & Company – Personalization in financial services
+- OECD – Financial literacy reports
